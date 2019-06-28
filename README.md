@@ -17,7 +17,7 @@ To run truffle tests:
 
 `truffle test ./test/flightSurety.js`
 `truffle test ./test/oracles.js`
- // `truffle test ./test/flightSurety_airline.js`//
+`truffle test ./test/flightSurety_airline.js`
 
 To use the dapp:
 
@@ -40,17 +40,17 @@ To build dapp for prod:
 
 Deploy the contents of the ./dapp folder
 
-// ## Run
+## Run
 
 `Terminal 1:
-ganache-cli -m "candy maple cake sugar pudding cream honey rich smooth crumble sweet treat"
+ganache-cli -m "muffin fix icon pelican finish alcohol puzzle farm scheme topple wish jewel" -a 50
 
 Terminal 2:
 truffle migrate
 npm run dapp
 
 Terminal 3:
-npm run server` //
+npm run server`
 
 
 ## Resources
